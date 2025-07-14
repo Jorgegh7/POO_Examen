@@ -1,0 +1,16 @@
+Jorge,Gallardo,Carga,Peugeot,Partner,GH-IJ-78,46000.0,7.0,4,203632.8
+Juan,Perez,Carga,Peugeot,Partner,GH-IJ-78,46000.0,7.0,4,203632.8
+Juan,Perez,Carga,Peugeot,Partner,GH-IJ-78,46000.0,7.0,4,203632.8
+Juan ,Perez,Pasajeros,Volkswagen,Gol,YZ-AB-92,29000.0,12.0,4,121475.2
+Juan,Perez,Carga,Peugeot,Partner,GH-IJ-78,46000.0,7.0,5,254541.0
+Juan,Perez,Pasajeros,Volkswagen,Gol,YZ-AB-92,29000.0,12.0,4,121475.2
+Jorge,Gallardo,Carga,Isuzu,D-Max,QR-ST-90,62000.0,7.0,6,411692.4
+Jorge,Gallardo,Pasajeros,Hyundai,Accent,TB-CD-79,34000.0,12.0,4,142419.2
+Jorge,Gallardo,Pasajeros,Chevrolet,Spark Lt,GH-LU-93,28000.0,12.0,7,205251.2
+Jorge,Gallardo,Pasajeros,Hyundai,Accent,TB-CD-79,34000.0,12.0,5,178024.0
+1,1,Pasajeros,Hyundai,Accent,TB-CD-79,34000.0,12.0,4,142419.2
+Jorge,Gallardo,Pasajeros,Hyundai,Accent,TB-CD-79,34000.0,12.0,5,178024.0
+Jorge,Gallardo,Carga,Isuzu,D-Max,QR-ST-90,62000.0,7.0,8,548923.2
+Jorge,Gallardo,Pasajeros,Chevrolet,Spark,CB-HJ-86,30000.0,7.0,8,265608.0
+Jorge,Gallardo,Carga,Isuzu,D-Max,QR-ST-90,62000.0,7.0,6,411692.4
+Jorge,Gallardo,Pasajeros,Hyundai,Accent,TB-CD-79,34000.0,12.0,7,249233.6,2025-07-14
