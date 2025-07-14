@@ -85,8 +85,12 @@ public class Main {
 
                     break;
 
-                case 5:
-                    arrendarVehiculo.devolverVehiculo();
+                case 5: // Devolver Vehivulo
+                    try{
+                        arrendarVehiculo.devolverVehiculo();
+                    }catch (InterruptedException e){
+                        System.out.println(e.getMessage());
+                    }
                     break;
 
                 case 6: // Administración
@@ -160,7 +164,7 @@ public class Main {
 
                     System.out.println("Gracias por preferir DRIVEQUEST RENTALS");
                     System.out.println("Hasta la proxima!");
-                    break;
+                    break; // Break cierre Administración
 
                 default:
                     System.out.println("Ingresa un número valido");
